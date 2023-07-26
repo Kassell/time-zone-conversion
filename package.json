@@ -1,0 +1,42 @@
+{
+  "name": "time-zone-conversion",
+  "version": "1.0.0",
+  "description": "time-zone-conversion",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kassell/time-zone-conversion.git"
+  },
+  "keywords": [
+    "time",
+    "Time",
+    "date",
+    "Date",
+    "GMT",
+    "gmt",
+    "tz",
+    "TZ",
+    "TZDate",
+    "tzdata",
+    "time-zone",
+    "TimeZone",
+    "time-zone-parse",
+    "TimeZoneParse",
+    "时区转换",
+    "时区"
+  ],
+  "author": "Kassell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kassell/time-zone-conversion/issues"
+  },
+  "homepage": "https://github.com/Kassell/time-zone-conversion#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
