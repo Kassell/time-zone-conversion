@@ -3,13 +3,13 @@
 ## Install
 
 ```
-$ npm install time-zone-parse
+$ npm i time-zone-conversion
 ```
 
 ## Usage
 
 ```javascript
-import timeZoneParse from "time-zone-parse";
+import timeZoneParse from "time-zone-conversion";
 
 // timeZoneParse(dateTime,sourceZone,targetZone?="GMT+0",strFormat?="YYYY-MM-DD hh:mm:ss")
 
