@@ -1,4 +1,4 @@
-# time-zone-parse
+# time-zone-conversion
 
 ## Install
 
